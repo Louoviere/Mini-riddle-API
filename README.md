@@ -17,7 +17,7 @@ This API is designed as a simple example of creating, hosting, and collaborating
    ```bash
    https://github.com/username/mini-riddle-api.git
    
-2. **Navigate to the project folder:**
+2. **Go to Vscode and new terminal using powershell:**
    ```bash
    cd mini-riddle-api
 3. **Install dependencies:**
