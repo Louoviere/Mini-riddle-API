@@ -2,6 +2,8 @@ const express = require("express");
 const app = express();
 const PORT = 3000;
 
+app.use(express.static("public"));
+
 // Sample riddles
 const riddles = [
   { id: 1, question: "What has to be broken before you can use it?", answer: "An egg" },
